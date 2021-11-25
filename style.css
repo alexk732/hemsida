@@ -134,3 +134,52 @@ footer {
     background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(RTbanner.png);
     color: white;
 }
+.goldeneye
+{
+    float: left;
+}
+
+div img
+{
+    width: 80%;
+}
+
+.text
+{
+    height: 140px;
+}
+
+.playstation
+{
+    float: left;
+}
+
+.playstation img
+{
+    width: 100%;
+}
+
+.text2
+{
+    height: 180px;
+}
+
+.kojikondo
+{
+    float: left;
+}
+
+.kojikondo img
+{
+    width: 80%;
+}
+
+.text3
+{
+    height: 140px;
+}
+
+figure
+{
+    /* margin-inline-end: 0; */
+}
